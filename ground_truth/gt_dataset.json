@@ -1,0 +1,149 @@
+[
+    {
+        "question": "How can I open a basic bank account?",
+        "answer": "To open a basic bank account, the credit institutions must provide you with a standardized information sheet (FIN) detailing the characteristics of this account. The basic account can have more than one holder, and these holders can be individuals who are of legal age, residents or non-residents, and use the account for non-professional purposes.",
+        "sources": [
+            195,
+            363,
+            365,
+            367,
+            370,
+            371,
+            640,
+            641,
+            642,
+            643,
+            659
+        ]
+    },
+    {
+        "question": "What are the implications of the deposit guarantee scheme on my savings?",
+        "answer": "The deposit guarantee scheme ensures that your savings deposited in a bank are protected. Regardless of the type of deposit, the bank must ensure the reimbursement of the total amount deposited at maturity or on the date allowed for early mobilization if permitted. In case of insolvency, deposits are protected up to a maximum amount of 100,000 euros per credit institution and depositor, whether the depositors reside in Portugal or not. The guarantee covers all deposits (except those excluded by law), regardless of their interest rate. The interest earned on deposits is also included in the balances covered by the guarantee.",
+        "sources": [
+            10,
+            19,
+            20,
+            21,
+            24,
+            25,
+            199,
+            274,
+            280,
+            326,
+            327,
+            331,
+            332,
+            333,
+            334
+        ]
+    },
+    {
+        "question": "Can you explain the different types of consumer credit available?",
+        "answer": "Consumer credit is designed for the purchase of goods and services such as cars, appliances, education, and health services. It includes personal credit (for various purposes), car credit (for car purchases), credit cards, overdraft facilities, and credit overruns. However, this type of credit is not guaranteed by a mortgage or other equivalent guarantee on real estate.\n\nConsumer credit can be provided in traditional formats with a set amount, term, and repayment method (like personal loans and car loans). Alternatively, it can be offered as revolving credit with a defined maximum credit limit and an indefinite term. This is common with products like credit cards, lines of credit, and overdraft facilities.\n\nIt's important to note that different types of consumer credits have different characteristics and associated costs. Therefore choosing the most suitable type of credit is crucial as there are significant differences in conditions and costs among them.",
+        "sources": [
+            415,
+            416,
+            667,
+            745,
+            775
+        ]
+    },
+    {
+        "question": "How do I manage debt effectively, especially with rising interest rates?",
+        "answer": "If you're having difficulties paying your housing loan due to increased interest rates, you can contact your credit institution and inform them about the degradation of your financial capacity. The institution is then obliged to develop actions as per the action plan for risk of non-compliance (PARI). You should cooperate with the credit institution by providing requested documents and information. If there's a confirmed risk of non-compliance and they conclude that you have financial capacity, institutions must present proposals to renegotiate the loan within 15 days after you've provided the requested information and documents.\n\nThe proposals for renegotiation can include changing one or more conditions of the credit contract such as extending the repayment term of the loan, setting a grace period for capital repayment or capital and interest payment, deferring part of the capital to be repaid in a future installment, or temporarily reducing the applicable interest rate on the contract. They may also propose consolidating several existing credit contracts in your name and signing a new credit contract aimed at refinancing debt from an existing credit contract.",
+        "sources": [
+            317,
+            318,
+            321,
+            444,
+            785,
+            789
+        ]
+    },
+    {
+        "question": "What should I know about the security measures for online banking?",
+        "answer": "When it comes to online banking, there are several security measures you should be aware of:\n\n1. Regularly check your account movements and verify the date and time of your last access to the homebanking service.\n2. Activate alerts for transfers, debits or any other security mechanisms that your institution may offer.\n3. Report theft, robbery or unauthorized use of your homebanking access credentials to your institution as soon as possible.\n4. Never use the same password for homebanking that you use for less secure connections (like social networks).\n5. Avoid using public devices (computers, smartphones or shared tablets) for homebanking.\n6. Make sure you enter your homebanking password and other authentication elements in private places where you're not being observed.\n7. Always log out after using the homebanking service.\n8. Protect the device through which you carry out banking operations by setting passwords and creating screen lock sequences.\n9. Keep your operating system and antivirus programs updated on all your devices.\n10. Protect electronic communications by always keeping the firewall active.\n11. Always type in the URL of your homebanking site instead of clicking on a link from an email or search engine results.\n12. Confirm that the website address begins with ,, and that there's a padlock icon at the end of the address or at the bottom bar of the window.\n13. Collaborate with your institution by following their security procedures when conducting online banking operations.",
+        "sources": [
+            148,
+            174,
+            175,
+            176,
+            177,
+            179,
+            180,
+            182,
+            183,
+            184,
+            185,
+            186,
+            565,
+            566,
+            569
+        ]
+    },
+    {
+        "question": "Could you guide me through the process of transferring a mortgage loan to another bank?",
+        "answer": "Sure, here are the steps to transfer a mortgage loan to another bank:\n\n1. Notify your current bank: You can transfer your loan to another credit institution at any time during the contract's term. However, you need to notify your current bank about this intention 10 days in advance.\n2. Pay off the existing loan: To transfer the loan from one institution (A) to another (B), you will have to make an early total repayment of the loan.\n3. Understand potential charges: Your current bank may charge a prepayment commission, which cannot exceed 0.5% of the repaid capital for contracts with variable interest rates or 2% for contracts with fixed interest rates. Until December 31, 2024, customers are exempt from paying this commission on housing credit contracts for purchasing or building their own permanent home with a variable interest rate.\n4. Transfer information: After requesting the loan transfer, your current bank must provide all necessary information and elements for granting the new loan to the new institution within 10 working days.",
+        "sources": [
+            741,
+            742
+        ]
+    },
+    {
+        "question": "What are my rights and duties when using a credit card?",
+        "answer": "As a credit card holder, you have several rights and duties.\n\nRights:\n1. You have the right to information at the time of contracting. The contract must establish all information and conditions regulating the relations between you and the issuer of the card. It includes rules for using the card, your rights and duties, and how to contact the issuer at any time.\n2. You have the right to terminate your credit card contract at any time, possibly with a notice period not exceeding one month if agreed with the payment service provider.\n3. During the contract's validity, you are entitled to be informed about each payment operation you carry out.\n4. You also have the right to file complaints based on non-compliance with legal norms applicable to payment cards through a complaint book or directly to Banco de Portugal.\n\nDuties:\n1. As a cardholder, you should use your card responsibly according to its issuance and usage conditions.\n2. You should take all reasonable measures, especially when receiving your card, to preserve its personalized security features' effectiveness.\n3. Before signing a contract, it is your duty to read and carefully analyze all information provided by your payment service provider.",
+        "sources": [
+            48,
+            61,
+            64,
+            65,
+            66
+        ]
+    },
+    {
+        "question": "How does the Central Credit Register affect my creditworthiness?",
+        "answer": "The Central Credit Register (Central de Responsabilidades de Crédito) provides information about the type and status of your credit, the amounts owed, and the terms of your loans. Negative information in the Central Credit Register could lead to a credit institution contacting you to assess signs of risk of non-compliance. This could potentially affect your creditworthiness as it might indicate a degradation of your financial capacity. If you adhere to certain measures like temporary fixation of housing loan installment, it will result in an automatic marking in the Central Credit Register as 'renegotiation'. This marking will be visible to institutions when evaluating their new credit operations.",
+        "sources": [
+            425,
+            680,
+            817
+        ]
+    },
+    {
+        "question": "What precautions should I take when writing out a cheque?",
+        "answer": "When writing out a cheque, there are several precautions you should take:\n\n1. Make sure your account has sufficient funds to cover the cheque.\n2. Ensure the cheque is within its validity period.\n3. Respect pre-printed denominations on the cheque.\n4. Write only in designated areas without exceeding their boundaries.\n5. Issue the cheque without amendments or erasures.\n6. Always indicate the place of issue and date of issue (year, month, day).\n7. Write the name or denomination of the entity to whom the cheque is issued.\n8. Always write out the value of the cheque in words, with a complete indication of the value expressed in numbers, referring to euros and cents if necessary.\n9. Always cross out unused squares and spaces with a continuous horizontal line.\n\nAdditionally, you should:\n1. Write the mention 'not to order', before or after the beneficiary's name to prevent payment to a different entity in case of theft or loss.\n2. Sign the cheque with a signature identical to that on your account opening form.\n\nRemember not to send cheques by mail as they can be stolen or lost.",
+        "sources": [
+            18,
+            82,
+            92,
+            93,
+            496,
+            498,
+            500,
+            511
+        ]
+    },
+    {
+        "question": "Can you provide detailed information on how to file and track a complaint against a financial institution?",
+        "answer": "Sure, here's how you can file a complaint against a financial institution:\n1. You can submit your complaint through the complaints book, either in physical format available at the institution's counters or in electronic format available at www.livroreclamacoes.pt. The complaints book must be provided as soon as you request it, without prejudice to the observance of priority service rules.\n2. If you choose to use the physical complaints book, you should fill out the following fields clearly and completely: identification and location of the complained institution; your name, identification and address; facts that motivate your complaint. The institution or credit intermediary sends to Banco de Portugal the original of the complaint sheet within 15 working days.\n3. You can also submit your complaint directly to Banco de Portugal through an online complaint form or by letter.\nAs for tracking a complaint, there is no specific information provided on how to do this. However, once you've submitted your complaint, it will be reviewed by Banco de Portugal for compliance with regulations governing credit institutions' activities.",
+        "sources": [
+            70,
+            139,
+            242,
+            251,
+            253,
+            374,
+            407,
+            574,
+            577,
+            578,
+            579,
+            580,
+            581,
+            583,
+            585,
+            816,
+            825
+        ]
+    }
+]
