@@ -42,4 +42,4 @@ To get started with this evaluation tool, follow these steps:
    ```
 
 ## Contact
-For any inquiries or collaboration opportunities, feel free to contact Francisco Alves at [francisco.2000.alves@gmail.com](mailto:francisco.2000.alves@gmail.com).
+For any inquiries, feel free to contact Francisco Alves at [francisco.2000.alves@gmail.com](mailto:francisco.2000.alves@gmail.com).
