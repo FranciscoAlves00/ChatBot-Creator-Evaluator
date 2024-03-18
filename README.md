@@ -21,7 +21,23 @@ The application utilizes the [RAGAs](https://docs.ragas.io/en/latest/index.html)
 - **Answer Relevancy**: Evaluates how relevant the generated answer is to the posed question. 🔑
 - **Answer Correctness**: Compares the accuracy of the generated answer against the ground truth. ✅
 
-With this tool, you can experiment with different configurations and decide what best suits your data to create your perfect Chatbot! 📈
+With this tool, you can experiment with different configurations and decide what best suits your data to create your perfect chatbot! 📈
+
+## Examples of the Different App Elements
+
+Here are some visual examples of key elements within the application.
+
+### Main Screen
+
+![Main Screen](images/main_screen.png "Main application screen")
+
+### Experiment
+
+![Experiment](images/experiment.png "Experimentation phase")
+
+### Chatbot
+
+![Chatbot](images/chatbot.png "Chatbot conversation")
 
 ## Getting Started:
 
