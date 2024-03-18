@@ -38,6 +38,7 @@ To get started with this evaluation tool, follow these steps:
    ```
 3. **Run the Application**: Start the application using the command below and follow the instructions on your screen.
    ```bash
+   cd app
    streamlit run app.py
    ```
 
