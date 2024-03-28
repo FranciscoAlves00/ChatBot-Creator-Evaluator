@@ -1,4 +1,4 @@
-# 🤖 Q&A Chatbot Evaluation Tool
+# 🤖 RAG Chatbot Evaluation Tool
 
 **This is an evaluation tool for question-answering chatbots.** 💡
 
